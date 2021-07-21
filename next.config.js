@@ -1,6 +1,6 @@
 module.exports = {
     env: {
-        "BASE_URL": "http://localhost:3000",
+        "BASE_URL": "https://webhang.herokuapp.com",
         "MONGODB_URL": "mongodb+srv://Huytu:Danghuytu1234@cluster0.euiti.mongodb.net/myFirstDatabase?retryWrites=true&w=majority",
         "ACCESS_TOKEN_SECRET": "z6E?G),:&v'w2-nES%]pAKQ-!Ztarp-r;UEj49Nv:Yh@eK'WVC",
         "REFRESH_TOKEN_SECRET": "vn+F48@s-%{w2<:+-Z$S8WY'%kKm,UShgQaaY&h}`(,8NN(G3m(b?]^85-2%t.X:MQ_R#UUv@U%UgGXs",
