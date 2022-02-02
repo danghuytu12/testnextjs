@@ -95,7 +95,7 @@ const Cart = () => {
   }
 
   if (cart.length === 0)
-    return <img className="img-responsive w-100" src="/empty_cart.jpg" alt="not empty" />
+    return <img height={650} className="img-responsive w-100 " src="/empty_cart.jpg" alt="not empty" />
 
   return (
     <div className="row mx-auto">

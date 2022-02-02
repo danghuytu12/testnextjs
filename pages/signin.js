@@ -48,7 +48,7 @@ const Signin = () => {
   }, [auth])
 
     return(
-      <div>
+      <div style={{marginTop:'220px'}}>
         <Head>
           <title>Sign in Page</title>
         </Head>
